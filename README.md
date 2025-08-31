@@ -7,7 +7,7 @@ This tool can track market conditions in real-time (such as liquidity pool statu
 
 ---
 
-## 🚀 Setup
+##  Setup
 
 1. **Create Wallet**
 
@@ -36,7 +36,7 @@ This tool can track market conditions in real-time (such as liquidity pool statu
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Wallet
 
@@ -91,7 +91,7 @@ This tool can track market conditions in real-time (such as liquidity pool statu
 
 ---
 
-## ⚡ Warp Transactions (Beta)
+##  Warp Transactions (Beta)
 
 If normal transactions fail frequently or are too slow, you can enable **Warp execution**.
 
@@ -100,7 +100,7 @@ If normal transactions fail frequently or are too slow, you can enable **Warp ex
 
 ---
 
-## 🛠️ Common Issues
+##  Common Issues
 
 * **Unsupported RPC node**
 
@@ -111,18 +111,3 @@ If normal transactions fail frequently or are too slow, you can enable **Warp ex
 
   * Error: `"No SOL token account found in wallet."`
   * Solution: Swap SOL → WSOL/USDC so the account is created.
-
----
-
-## 🤝 Support
-
-* Tips: `7gm6BPQrSBaTAYaJheuRevBNXcmKsgbkfBCVSjBnt9aP`
-* For custom features or private help, contact the admin team on Discord.
-
----
-
-## ⚠️ Disclaimer
-
-The **Solana Auto Trader** is provided for **educational purposes only**.
-Cryptocurrency trading is risky, and use of this bot is entirely at your own risk.
-The maintainers are **not responsible** for financial losses incurred.
